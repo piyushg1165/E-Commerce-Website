@@ -24,14 +24,14 @@
                     <li><a href="#products">Products</a></li>
                     <li><a href="#partners">Brand Partners</a></li>
                     <li><a href="#latest">Latest Arrivals</a></li>
-                    <!-- <li><a href="#about">About</a></li> -->
+                    <li><a href="#about">About</a></li>
                 </ul>
             </nav>
             <img src="images/cart.png" width="30px" height="30px" alt="">
         </div>
         <div class="row">
             <div class="col-2">
-                <h1>Give Yourself A <br> New Style!</h1>
+                <h1>Give Yourself A <br> <span class="auto-type"></span></h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> Quibusdam quisquam blanditiis odio. Ea!</p>
                 <a href="#products" class="btn">Explore Now &#8594</a>
 
@@ -242,6 +242,14 @@
                 </div>
             </div>
             
-            
+            <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+            <script>
+                var typed = new Typed(".auto-type", {
+                    strings : ["New Style!","New Look!", "New Vibe!"],
+                    typeSpeed:50,
+                    backSpeed:50,
+                    loop:true
+                })
+            </script>
 </body>
 </html>
