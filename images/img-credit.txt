@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 <a href='https://www.freepik.com/free-photos-vectors/banner'>Banner psd created by freepik - www.freepik.com</a>
 
+=======
+<a href='https://www.freepik.com/free-photos-vectors/banner'>Banner psd created by freepik - www.freepik.com</a>
+
+>>>>>>> d4c689503fcd1c3390e39c2fc1c6309f0754b230
 Products image: www.myntra.com
